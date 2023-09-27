@@ -29,7 +29,7 @@ public class Conversor {
 		
 		scan.close();
 		
-		System.out.println(cantidadMonedaLocal+ " "+monedaLocal+" Equivale a "+divisa %.2f+" "+monedaCambio);
+		System.out.println(cantidadMonedaLocal+ " "+monedaLocal+" Equivale a "+divisa+" "+monedaCambio);
 		
 		prueba = JOptionPane.showInputDialog("Ingrese un valor");
 		
@@ -40,3 +40,4 @@ public class Conversor {
 		JOptionPane.showMessageDialog(null, "miDouble es "+miDouble);
 	}
 }
+ //holaaa
