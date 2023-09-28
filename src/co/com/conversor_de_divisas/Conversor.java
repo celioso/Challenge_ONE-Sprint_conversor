@@ -40,4 +40,3 @@ public class Conversor {
 		JOptionPane.showMessageDialog(null, "miDouble es "+miDouble);
 	}
 }
- //holaaa
